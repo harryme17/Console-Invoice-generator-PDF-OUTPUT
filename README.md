@@ -1,3 +1,4 @@
+[![Built with C# and QuestPDF](https://img.shields.io/badge/Built%20with-C%23%20%7C%20QuestPDF-512BD4.svg?style=flat-square&logo=c-sharp&logoColor=white)](https://www.questpdf.com)
 
 # 🧾 Console Billing System (with PDF Invoice)
 
