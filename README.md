@@ -118,4 +118,6 @@ For more details: [https://www.questpdf.com/license](https://www.questpdf.com/li
 ## 🙋‍♂️ Author
 
 **Harshal Menge**  
-This project is a beginner-friendly C# practice tool focusing on method overloading and console-based interaction.
+This project is a beginner-friendly C# console application designed to simulate a real-world billing system. It allows users to input item details, calculate totals, and generate a professional PDF invoice using the QuestPDF library. Ideal for practicing object-oriented programming, console interaction, and file generation in C#.
+
+
